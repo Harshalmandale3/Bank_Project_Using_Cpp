@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666101030 source:e:\cprogram\bankprojectmodify\main.cpp
+	<iostream>
+	<windows.h>
+
